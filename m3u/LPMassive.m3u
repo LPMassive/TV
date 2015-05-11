@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,De - Sat1
+http://5.196.82.222:8000/live/LPMassive1month/Bb8DFwVMV6/312.ts
+#EXTINF:-1,De - RTL
+http://5.196.82.222:8000/live/LPMassive1month/Bb8DFwVMV6/311.ts
+#EXTINF:-1,De - RTL 2
+http://5.196.82.222:8000/live/LPMassive1month/Bb8DFwVMV6/310.ts
+#EXTINF:-1,De - Kabel 1
+http://5.196.82.222:8000/live/LPMassive1month/Bb8DFwVMV6/307.ts
+#EXTINF:-1,De - Vox
+http://5.196.82.222:8000/live/LPMassive1month/Bb8DFwVMV6/308.ts
+#EXTINF:-1,De - Sky Atlantic
+http://5.196.82.222:8000/live/LPMassive1month/Bb8DFwVMV6/299.ts
+#EXTINF:-1,De - Super RTL
+http://5.196.82.222:8000/live/LPMassive1month/Bb8DFwVMV6/309.ts
+#EXTINF:-1,De - Kika
+http://5.196.82.222:8000/live/LPMassive1month/Bb8DFwVMV6/306.ts
+#EXTINF:-1,De - Syfy
+http://5.196.82.222:8000/live/LPMassive1month/Bb8DFwVMV6/305.ts
+#EXTINF:-1,De - Nat Geo Wild
+http://5.196.82.222:8000/live/LPMassive1month/Bb8DFwVMV6/304.ts
+#EXTINF:-1,De - Sky Cinema
+http://5.196.82.222:8000/live/LPMassive1month/Bb8DFwVMV6/303.ts
+#EXTINF:-1,De - Sky Hits
+http://5.196.82.222:8000/live/LPMassive1month/Bb8DFwVMV6/300.ts
+#EXTINF:-1,De - Sky Comedy
+http://5.196.82.222:8000/live/LPMassive1month/Bb8DFwVMV6/301.ts
+#EXTINF:-1,De - Sky Action
+http://5.196.82.222:8000/live/LPMassive1month/Bb8DFwVMV6/302.ts
+#EXTINF:-1,De - Sky Sport 1 DE
+http://5.196.82.222:8000/live/LPMassive1month/Bb8DFwVMV6/298.ts
+#EXTINF:-1,De - Sky Sport 2
+http://5.196.82.222:8000/live/LPMassive1month/Bb8DFwVMV6/297.ts
